@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=03s-hH-DE7E
 
 I've used the generic LinkedList as primary data structure, and the App was in CLI
 #C++
+
+# Step 1: compile the WarCardGame.cpp file
+# Step 2: launch ./a.out file
