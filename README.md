@@ -10,4 +10,5 @@ I've used the generic LinkedList as primary data structure, and the App was in C
 
 # How to run:
  Step 1: compile the WarCardGame.cpp file
+ 
  Step 2: launch ./a.out file
