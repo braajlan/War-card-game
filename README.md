@@ -1,6 +1,6 @@
 # War-card-game
 
-A worksheet of the original war card game in the playing cards.
+coding the backend original war card game in the playing cards.
 Example of how it works in video below:
 https://www.youtube.com/watch?v=03s-hH-DE7E
 
